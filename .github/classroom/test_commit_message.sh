@@ -9,6 +9,7 @@ if \[\[ -z "$MSG" ]]; then
   exit 1
 fi
  
+ 
 # Check only for the word "merge"
 if echo "$MSG" | grep -qw "merge"; then
   echo "PASS: Commit message contains 'merge'"

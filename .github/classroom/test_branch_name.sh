@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
+
 # ใช้ชื่อ branch จาก GitHub ถ้ามี, ถ้าไม่มีก็ใช้ HEAD ปัจจุบัน
 BRANCH="${GITHUB_HEAD_REF:-$(git rev-parse --abbrev-ref HEAD)}"
 
