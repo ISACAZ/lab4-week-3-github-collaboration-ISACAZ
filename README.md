@@ -42,3 +42,5 @@ Students will practice:
 - **Lab 3:** Automation — understand protected branches, GitHub Actions workflow, and releases.
 
 Good luck and have fun collaborating!
+
+CI test update by Phonlawat Phudokmai
