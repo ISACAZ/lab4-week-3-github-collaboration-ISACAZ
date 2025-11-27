@@ -15,3 +15,4 @@ Example:
 ## Class List
 
 - Example Student (600000001)
+- Phonlawat Phudokmai (67991045)
