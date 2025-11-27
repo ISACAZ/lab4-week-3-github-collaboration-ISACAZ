@@ -43,4 +43,3 @@ Students will practice:
 
 Good luck and have fun collaborating!
 
-CI test update by Phonlawat Phudokmai
